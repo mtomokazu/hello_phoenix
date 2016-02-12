@@ -35,8 +35,8 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :hello_phoenix, HelloPhoenix.Repo,
   adapter: Ecto.Adapters.MySQL,
-  username: "root",
-  password: "",
-  database: "hello_phoenix_dev",
+  username: "phoenix",
+  password: "phoenix",
+  database: "phoenix",
   hostname: "localhost",
   pool_size: 10
