@@ -1,5 +1,7 @@
 # HelloPhoenix
 
+[![Build Status](https://travis-ci.org/mtomokazu/hello_phoenix.svg?branch=master)](https://travis-ci.org/mtomokazu/hello_phoenix)
+
 ## 環境
 
 Erlang, Elixir, Mix
