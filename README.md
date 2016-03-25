@@ -1,6 +1,7 @@
 # HelloPhoenix
 
 [![Build Status](https://travis-ci.org/mtomokazu/hello_phoenix.svg?branch=master)](https://travis-ci.org/mtomokazu/hello_phoenix)
+[![Coverage Status](https://coveralls.io/repos/github/mtomokazu/hello_phoenix/badge.svg?branch=master)](https://coveralls.io/github/mtomokazu/hello_phoenix?branch=master)
 
 ## 環境
 
