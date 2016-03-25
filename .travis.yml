@@ -6,3 +6,8 @@ before_script:
   - mysql -uroot -e "grant all privileges on phoenix_test.* to phoenix@localhost identified by 'phoenix'"
   - MIX_ENV=test mix ecto.create
   - MIX_ENV=test mix ecto.migrate
+
+env:
+  - MIX_ENV=test
+
+script: mix coveralls.travis
