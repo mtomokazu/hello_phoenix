@@ -44,7 +44,8 @@ defmodule HelloPhoenix.Mixfile do
       {:phoenix_live_reload, "~> 1.0", only: :dev},
       {:gettext, "~> 0.9"},
       {:cowboy, "~> 1.0"},
-      {:excoveralls, "~> 0.4", only: :test}
+      {:excoveralls, "~> 0.4", only: :test},
+      {:inch_ex, "~> 0.5.1", only: :docs}
     ]
   end
 

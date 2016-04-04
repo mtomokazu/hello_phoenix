@@ -10,6 +10,7 @@
   "gettext": {:hex, :gettext, "0.10.0"},
   "hackney": {:hex, :hackney, "1.5.7"},
   "idna": {:hex, :idna, "1.2.0"},
+  "inch_ex": {:hex, :inch_ex, "0.5.1"},
   "jsx": {:hex, :jsx, "2.6.2"},
   "mariaex": {:hex, :mariaex, "0.6.5"},
   "metrics": {:hex, :metrics, "1.0.1"},
